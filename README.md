@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi 👋, I'm Konstantin
+## Senior Front-end Engineer
 
-<!--
-**kostyachuma/kostyachuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact
+- 📱 **Telegram**: [kostyachuma](https://t.me/kostyachuma)
+- ✉️ **Email**: kostyachuma@proton.me
+- 🔗 **LinkedIn**: [kostyachuma](https://www.linkedin.com/in/kostyachuma/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **[TimeShift](https://timeshift.cc)**
+  
+### Skills
+- 💻 **Languages**: JavaScript, TypeScript
+- 🛠️ **Frameworks/Libraries**: Vue.js, Nuxt.js, Tailwind, Vuetify
+- 🌐 **APIs**: REST, GraphQL, WebSockets
+- 🖥️ **Web Technologies**: HTML, CSS, SCSS, BEM
+- 📝 **Version Control**: Git
+- 🚀 **Backend Technologies**: Node.js, Express, Strapi
