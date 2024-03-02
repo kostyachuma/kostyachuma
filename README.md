@@ -5,9 +5,6 @@
 - 📱 **Telegram**: [kostyachuma](https://t.me/kostyachuma)
 - ✉️ **Email**: kostyachuma@proton.me
 - 🔗 **LinkedIn**: [kostyachuma](https://www.linkedin.com/in/kostyachuma/)
-
-### Projects
-- **[TimeShift](https://timeshift.cc)**
   
 ### Skills
 - 💻 **Languages**: JavaScript, TypeScript
