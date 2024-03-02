@@ -1,5 +1,5 @@
 # Hi 👋, I'm Konstantin
-## Senior Front-end Engineer
+## Front-end Engineer
 
 ### Contact
 - 📱 **Telegram**: [kostyachuma](https://t.me/kostyachuma)
