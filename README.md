@@ -10,5 +10,4 @@
 - 🛠️ **Frameworks/Libraries**: Vue.js, Nuxt.js, Tailwind, Vuetify
 - 🌐 **APIs**: REST, GraphQL, WebSockets
 - 🖥️ **Web Technologies**: HTML, CSS, SCSS, BEM
-- 📝 **Version Control**: Git
-- 🚀 **Backend Technologies**: Node.js, Express, Strapi
+- 🚀 **Backend Technologies**: Node.js, Express
