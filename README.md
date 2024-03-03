@@ -4,7 +4,6 @@
 ### Contact
 - 📱 **Telegram**: [kostyachuma](https://t.me/kostyachuma)
 - ✉️ **Email**: kostyachuma@proton.me
-- 🔗 **LinkedIn**: [kostyachuma](https://www.linkedin.com/in/kostyachuma/)
   
 ### Skills
 - 💻 **Languages**: JavaScript, TypeScript
