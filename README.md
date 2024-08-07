@@ -7,7 +7,7 @@
   
 ### Skills
 - 💻 **Languages**: JavaScript, TypeScript
-- 🛠️ **Frameworks/Libraries**: Vue.js, Nuxt.js, Tailwind, Vuetify
-- 🌐 **APIs**: REST, GraphQL, WebSockets
-- 🖥️ **Web Technologies**: HTML, CSS, SCSS, BEM
+- 🛠️ **Frameworks/Libraries**: Vue.js, Nuxt.js, Vuetify, Ionic
+- 🌐 **APIs**: REST, GraphQL, WebSockets, Firebase
+- 🖥️ **Web Technologies**: HTML, CSS, SCSS, BEM, Tailwind
 - 🚀 **Backend Technologies**: Node.js, Express
